@@ -59,4 +59,4 @@ This repository is for educational and experimental purposes only. Use these pro
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.txt).
+This project is licensed under the [MIT License](LICENSE).
